@@ -7,9 +7,9 @@ const body = Inter({ subsets: ['latin'], weight: ['400', '500', '600'], variable
 const mono = JetBrains_Mono({ subsets: ['latin'], weight: ['400', '500'], variable: '--font-mono' });
 
 export const metadata = {
-  title: 'Taxi Elbasan | Transferta Aeroporti Rinas & Tiranë',
+  title: 'Taxi Luli | Transferta Aeroporti Rinas & Tiranë',
   description: 'Taxi privat në Elbasan. Transferta drejt Aeroportit të Rinasit, Tiranës dhe çdo destinacioni tjetër. Rezervim i shpejtë në WhatsApp, çmim i qartë.',
-  keywords: ['taxi elbasan', 'taxi aeroport rinas', 'transferta elbasan tirane', 'airport transfer elbasan'],
+  keywords: ['Taxi Luli', 'taxi aeroport rinas', 'transferta elbasan tirane', 'airport transfer elbasan'],
 };
 
 export default function RootLayout({ children }) {

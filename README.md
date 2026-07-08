@@ -1,4 +1,4 @@
-# Taxi Elbasan — Website
+# Taxi Luli — Website
 
 Website i plotë për një biznes taxi në Elbasan: rezervim i shpejtë në WhatsApp, kalkulator distance/çmimi, statusi i shoferit, ndjekje fluturimi, panel admini, dhe shumë më tepër. Ndërtuar me Next.js dhe Supabase (falas përgjithmonë në planin bazë).
 

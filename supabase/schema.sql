@@ -1,4 +1,4 @@
--- taxi elbasan — supabase schema
+-- Taxi Luli — supabase schema
 -- run this once in the supabase sql editor (project -> sql editor -> new query)
 -- after this runs, the site can read/write data. see README.md for the full setup steps.
 

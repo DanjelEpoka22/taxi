@@ -12,7 +12,7 @@ export default function DestinationsPricing() {
   }
 
   function linkFor(d) {
-    const text = `Taxi Elbasan → ${nameOf(d)}`;
+    const text = `Taxi Luli → ${nameOf(d)}`;
     return buildWhatsAppLink(settings?.whatsapp_number || '355691234567', text);
   }
 

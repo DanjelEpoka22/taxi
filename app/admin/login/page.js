@@ -31,7 +31,7 @@ export default function AdminLoginPage() {
     <div className="min-h-screen flex items-center justify-center bg-[#0B1120] text-[#EAF0F6] px-4">
       <form onSubmit={submit} className="w-full max-w-sm rounded-2xl border border-[#243149] bg-[#121A2C] p-8">
         <h1 className="font-bold text-xl mb-1">Paneli i Administratorit</h1>
-        <p className="text-sm text-[#8996AC] mb-6">Taxi Elbasan</p>
+        <p className="text-sm text-[#8996AC] mb-6">Taxi Luli</p>
         <label className="text-xs font-semibold text-[#8996AC]">Fjalëkalimi</label>
         <input
           type="password"

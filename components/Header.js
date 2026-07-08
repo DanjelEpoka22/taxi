@@ -42,7 +42,7 @@ export default function Header() {
             <circle cx="13" cy="26" r="1.8" fill="var(--accent)" />
             <circle cx="27" cy="26" r="1.8" fill="var(--accent)" />
           </svg>
-          <span className="font-display font-bold text-lg tracking-tight">Taxi Elbasan</span>
+          <span className="font-display font-bold text-lg tracking-tight">Taxi Luli</span>
         </a>
 
         <nav className="hidden lg:flex items-center gap-6 text-sm font-medium text-[var(--muted)]">
